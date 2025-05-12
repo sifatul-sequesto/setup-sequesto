@@ -60,7 +60,7 @@ You must run the docker-run\*.sh files in numerical order.
       },
       ```
    4. Now restart your **sequesto-onlyoffice** container to make the changes take effect.
-10.
+10. You can now also stop all the terminals and restart the docker containers manually from terminal or from the docker desktop app.
 
 With that, you're done setting up the Docker containers for Sequesto.
 
